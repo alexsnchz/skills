@@ -1,19 +1,6 @@
 ---
 name: wcag-design
-description: >
-  Create accessible, production-grade frontend interfaces that conform to WCAG 2.2 AA standards
-  while maintaining high design quality. Use this skill when building any web component, page,
-  dashboard, or application where accessibility compliance (WCAG, ADA, Section 508, EN 301 549)
-  is required or desired, or when auditing/fixing accessibility issues in existing UI code.
-  Combines comprehensive W3C WAI accessibility knowledge with distinctive frontend design principles.
-version: 1.0.0
-sources:
-  - https://www.w3.org/WAI/standards-guidelines/wcag/
-  - https://www.w3.org/TR/WCAG22/
-  - https://www.w3.org/WAI/ARIA/apg/
-  - https://webaim.org/
-  - https://www.deque.com/
-  - https://www.a11yproject.com/
+description: "Create accessible, production-grade frontend interfaces that conform to WCAG 2.2 AA standards while maintaining high design quality. Use this skill when building any web component, page, dashboard, or application where accessibility compliance (WCAG, ADA, Section 508, EN 301 549) is required or desired, or when auditing/fixing accessibility issues in existing UI code. Combines comprehensive W3C WAI accessibility knowledge with distinctive frontend design principles."
 ---
 
 # WCAG-Design Skill
